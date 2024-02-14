@@ -633,6 +633,19 @@ footer .copyright {
         font-size: 32px;
     }
 
+    #close {
+        position: absolute;
+        top: 30px;
+        left: 30px;
+        color: #222;
+        font: 24px;
+        display: initial;
+    }
+
+    #lg-bag {
+        display: none;
+    }
+
     #header a>img {
         padding-top: 5px;
         height: 28px;
